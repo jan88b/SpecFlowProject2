@@ -1,5 +1,5 @@
 # SpecFlowProject2
-Added cases for 5 of the below scenarios 
+Added cases for 5 of the below scenarios using specflow extension 
 
 1. Verify that a valid journey can be planned using the widget. (A valid journey will
 consist of a valid locations entered into the widget)
